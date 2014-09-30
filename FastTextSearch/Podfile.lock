@@ -1,0 +1,14 @@
+PODS:
+  - TAStringDataStructures (1.0)
+
+DEPENDENCIES:
+  - TAStringDataStructures (from `https://github.com/tdansel88/TAStringDataStructures.git`)
+
+EXTERNAL SOURCES:
+  TAStringDataStructures:
+    :git: https://github.com/tdansel88/TAStringDataStructures.git
+
+SPEC CHECKSUMS:
+  TAStringDataStructures: 17531a0769f9779084a433fce40c976ff4b1991c
+
+COCOAPODS: 0.33.1
